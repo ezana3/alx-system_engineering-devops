@@ -1,2 +1,2 @@
 #!/bin/bash
-cp HP-UX *.html ..
+cp hp-ux *.html ..
