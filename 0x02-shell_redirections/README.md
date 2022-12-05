@@ -1,1 +1,1 @@
-How to say hellow on the terminal.
+Redirection.
